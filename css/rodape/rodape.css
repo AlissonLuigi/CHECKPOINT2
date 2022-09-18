@@ -1,0 +1,20 @@
+.rodape {
+    width: 800%;
+    height: 1500px;
+    background: #171717;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 80px;
+    color: #FFFFFF;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+
+    margin: 0 auto;
+    max-width: 1920px;
+}
+
+.rodape__item {
+    top: 0px;
+}
